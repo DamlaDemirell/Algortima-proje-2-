@@ -1,4 +1,6 @@
-Proje 2 [16,21,11,8,12,22] -> Merge Sort son halini yazınız. 
+Proje 2 [16,21,11,8,12,22] -> 
+Merge Sort son halini yazınız. 
+
 [16,21,11] [8,12,22]
 [16,21] [11] - [8,12] [22]
 [16] [21] [11] - [8] [12] [22]
